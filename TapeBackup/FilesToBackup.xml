@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFileToBackUp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileToBackUp>
+    <FileName>File1.7z</FileName>
+    <FilePath>\\ServerShare1\Backups$\SQL\</FilePath>
+  </FileToBackUp>
+  <FileToBackUp>
+    <FileName>File2.7z</FileName>
+    <FilePath>\\ServerShare2\Backups$\SQL\</FilePath>
+  </FileToBackUp>
+  <FileToBackUp>
+    <FileName>File3.7z</FileName>
+    <FilePath>\\ServerShare3\Backups$\Exchange\</FilePath>
+  </FileToBackUp>
+</ArrayOfFileToBackUp>
