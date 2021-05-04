@@ -8,7 +8,7 @@ using System.Xml.Serialization;
 using System.IO;
 
 
-namespace TapeBackup
+namespace TapeDrive
 {
     [Serializable()]
     public class BackupFile

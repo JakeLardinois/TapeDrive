@@ -2,11 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
 using System.IO;
 
 
-namespace TapeBackup
+namespace TapeDrive
 {
     /*Writing a file that was 2389600KB from position 0 on the tape put the tapes position to 37338; that equates to 63KB per position
     *FUTURE IMPROVEMENTS - catch the 'out of memory' exception and decrease the MaxMemoryChunk property

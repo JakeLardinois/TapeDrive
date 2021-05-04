@@ -13,7 +13,7 @@ using Microsoft.Win32.SafeHandles;
  * Resource Documenting windows API Calls (use for examples of existing calls):
  * http://msdn.microsoft.com/en-us/library/windows/desktop/aa362532(v=vs.85).aspx
  */
-namespace TapeBackup
+namespace TapeDrive
 {
     #region Typedefenitions
     using BOOL = System.Int32;
